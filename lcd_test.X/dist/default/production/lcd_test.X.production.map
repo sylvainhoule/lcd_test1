@@ -1,4 +1,4 @@
-Microchip Technology Inc, vv1_11 (A) ¹
+Microchip Technology Inc, vv1_11 (A) blÚØì¡h
 
 Tool Name:
   c:\program files (x86)\microchip\xc16\v1.11\bin\bin\..\bin/elf-ld.exe
@@ -216,13 +216,13 @@ __CONFIG1
 .comment
  *(.comment)
 
-.debug_info       0x000000       0x168f
+.debug_info       0x000000       0x16bb
  *(.debug_info)
- .debug_info      0x000000        0x1ad build/default/production/main.o
- .debug_info      0x0001ad        0x3b8 build/default/production/_ext/1270477542/pmp_lcd.o
- .debug_info      0x000565        0x66b c:/program files (x86)/microchip/xc16/v1.11/bin/bin/../../lib/PIC24F\libpPIC24Fxxx-elf.a(PMPClose.o)
- .debug_info      0x000bd0        0x8f1 c:/program files (x86)/microchip/xc16/v1.11/bin/bin/../../lib/PIC24F\libpPIC24Fxxx-elf.a(PMPOpen.o)
- .debug_info      0x0014c1        0x1ce c:/program files (x86)/microchip/xc16/v1.11/bin/bin/../../lib/PIC24F\libpPIC24Fxxx-elf.a(PMPSetAddress.o)
+ .debug_info      0x000000        0x1c3 build/default/production/main.o
+ .debug_info      0x0001c3        0x3ce build/default/production/_ext/1270477542/pmp_lcd.o
+ .debug_info      0x000591        0x66b c:/program files (x86)/microchip/xc16/v1.11/bin/bin/../../lib/PIC24F\libpPIC24Fxxx-elf.a(PMPClose.o)
+ .debug_info      0x000bfc        0x8f1 c:/program files (x86)/microchip/xc16/v1.11/bin/bin/../../lib/PIC24F\libpPIC24Fxxx-elf.a(PMPOpen.o)
+ .debug_info      0x0014ed        0x1ce c:/program files (x86)/microchip/xc16/v1.11/bin/bin/../../lib/PIC24F\libpPIC24Fxxx-elf.a(PMPSetAddress.o)
  *(.gnu.linkonce.wi.*)
 
 .debug_abbrev     0x000000        0x2e7
