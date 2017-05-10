@@ -25,7 +25,7 @@
                    displayName="Important Files"
                    projectFiles="false">
       <itemPath>Makefile</itemPath>
-      <itemPath>C:/serge/Vanier/courses/247-501-VA_Advanced Programming in Microprocessors/A16/MPLAB-X_projects/function_generator.X/MyConfig.mc3</itemPath>
+      <itemPath>../../../lcd_test.X/MyConfig.mc3</itemPath>
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>
