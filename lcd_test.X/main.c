@@ -1,6 +1,6 @@
 /**
-   	FileName:     main.c
-	
+   	FileName:     main.c 
+ Branch
 	Name: Embedded application design,  Lab 6
  
 	Description: This lab generates three different waveform at OC1 pin RD0 ...
