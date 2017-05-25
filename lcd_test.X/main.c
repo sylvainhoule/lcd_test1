@@ -1,6 +1,7 @@
 /**
    	FileName:     main.c 
  Branch  11 May 4:09 PM
+ Fork of May 25
 	Name: Embedded application design,  Lab 6
     
 	Description: This lab generates three different waveform at OC1 pin RD0 ...
